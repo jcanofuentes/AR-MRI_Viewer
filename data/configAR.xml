@@ -1,0 +1,8 @@
+  <configFile>
+    <models>
+      <model id="0" mesh="Modelos3d/modeloPruebas.mesh" materialName="modeloPruebas/materialPrueba"></model>
+      <model id="1" mesh="Modelos3d/ejeY.mesh" materialName="ejeY/ejeY"></model>
+      <model id="2" mesh="Modelos3d/ejeZ.mesh" materialName="ejeZ/ejeZ"></model>
+    </models>
+    <CVProperties numberOfCameras="2"  cameraGain="0" cameraExposure="0" threshold="0"></CVProperties>
+  </configFile>
