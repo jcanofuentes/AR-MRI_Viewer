@@ -1,7 +1,7 @@
 # Augmented Reality MRI Viewer
 
 ## Introduction
-This repository contains the source code for the application developed in 2009 that uses augmented reality to display real-time MRI images. The software captures images from one camera, identifies multiple AR markers, and computes their 3D positions.
+This repository contains the source code for a demo developed in 2009 that uses augmented reality to display MRI images overalyed on a patient's body, allowing medical professionals to visualize internal structures in real-time. The software captures images from one camera, identifies multiple AR markers, and computes their 3D positions.
 
 ## ⚠️ Important Note
 As of now, it is practically impossible to get this code running due to outdated dependencies and libraries. However, it is preserved here in the hopes that it might be of use to someone, either for educational purposes or as a foundation for further development.
